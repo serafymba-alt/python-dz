@@ -1,1 +1,1 @@
-# python-dz-slovnyky-zikli
+# python-dz
